@@ -32,6 +32,13 @@ Perfect for anyone looking to strengthen their SQL skills through hands-on probl
     <td> EXTRACT </td>
   </tr>  
   <tr>
+    <tr>
+    <td>04</td>
+    <td><a href="https://github.com/olgamariavalenti/sql-challenges/blob/main/SQL%23004_product_category.md">004 Users</a></td>
+    <td>🧡 Medium</td>
+    <td> INNER JOIN, WITH </td>
+  </tr>  
+  <tr>
 <!--     <td>02</td>
     <td><a href="contact.html">Go to XX </a></td> -->
   </tr>
